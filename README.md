@@ -2,7 +2,7 @@
 2nd Challenge Elixir
 </h1>
 
-This repo includes the resolution for 2nd Challenge in Elixir Journey with [Rafael Camada][btn-tutor].
+This repo includes the resolution for 2nd Challenge in Elixir Journey with [Rafael Camarda][btn-tutor].
 
 ## GOAL
 
